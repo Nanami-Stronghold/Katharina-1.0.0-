@@ -46,8 +46,8 @@
     "PopulationPerIronmine": 14,
     "PopulationPerPitchrig": 20,
     "MaxQuarries": 3,
-    "MaxIronmines": 10,
-    "MaxWoodcutters": 6,
+    "MaxIronmines": 8,
+    "MaxWoodcutters": 12,
     "MaxPitchrigs": 2,
     "MaxFarms": 16,
     "BuildInterval": 3,
@@ -112,7 +112,7 @@
     "RecruitInterval": 1,
     "RecruitIntervalWeak": 1,
     "RecruitIntervalStrong": 1,
-    "DefTotal": 70,
+    "DefTotal": 95,
     "OuterPatrolGroupsCount": 3,
     "OuterPatrolGroupsMove": "True",
     "OuterPatrolRallyDelay": 2,
@@ -197,4 +197,5 @@
     "AIOxTethers_MaximumOxTethersPerQuarry" : 4,
     "AIOxTethers_ThresholdStoneLoad"        : 5
   }
+
 }
