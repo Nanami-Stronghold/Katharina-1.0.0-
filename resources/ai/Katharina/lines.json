@@ -10,7 +10,7 @@
   "title_7"      : "Galopp",
   "title_8"      : "The giant Horse WHAT?!",
 
- "description"  : "Katharina II., genannt Katharina die Große. Kaiserin über Russland und Herrin von Jever. Sie ist die einzige Herrscherin, der in der Geschichtsschreibung der Beiname die Große verliehen wurde. Jedoch kämpfte sie stets mit einem üblen Gerücht, welches ihre Wiedersacher verbreiteten.",
+ "description"  : "Katharina II., genannt Katharina die Große. Kaiserin über Russland und Herrin von Jever. Sie ist die einzige Herrscherin, der in der Geschichtsschreibung der Beiname die Große verliehen wurde. Jedoch kämpfte sie stets mit einem üblen Gerücht, welches ihre Widersacher verbreiteten.",
 
   "unknown_1"    : "(Katharina)",
   "taunt_1"      : "Jeder Mann ist ein Manuskript, das erst korrigiert werden muss.",
@@ -46,5 +46,6 @@
   "team_losing"  : "Diese Barbaren wollen nicht nur meinen Thron! Die werden Pferdewurst aus meinen Tieren machen!",
   "help_sent"    : "Hilfe ist unterwegs!",
   "will_attack"  : "Auf einen gemeinsamen Sieg!"
+
 
 }
