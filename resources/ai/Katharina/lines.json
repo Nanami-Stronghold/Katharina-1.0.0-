@@ -19,7 +19,7 @@
   "taunt_4"      : "Ihr werdet an Euren eigenen Lügen noch ersticken.",
   "anger_1"      : "Ich lasse Euch auf dem Scheiterhaufen brennen!",
   "anger_2"      : "Die Kavallerie wird Euch niedertrampeln, Wicht",
-  "plead"        : "In einem großen Reiche, dessen Herrschaft sich über so viele verschiedene Völker erstreckt, als es verschiedene Glauben unter den Menschen gibt, wäre Intoleranz der gefährlichste Fehler.",
+  "plead"        : "Diese Barbaren wollen nicht nur meinen Thron, die werden Pferdewurst aus meinen Tieren machen!",
   "nervous_1"    : "Soldaten! Schützt Eure Königin!",
   "nervous_2"    : "Sattelt die Pferde, wir werden angegriffen!",
   "victory_1"    : "Das ging ja flotter als ein kurzer Ausritt.",
@@ -43,9 +43,8 @@
   "no_sent"      : "Das Reich verfügt über keine übrig gebliebenen Güter, die wir Euch zukommen lassen können.",
   "sent"         : "Die Güter entsende ich mit meinen schnellsten Pferden.",
   "team_winning" : "Hach, wie wunderbar. Heute feiern wir den Triumph!",
-  "team_losing"  : "Diese Barbaren wollen nicht nur meinen Thron! Die werden Pferdewurst aus meinen Tieren machen!",
+  "team_losing"  : "In einem großen Reiche, dessen Herrschaft sich über so viele verschiedene Völker erstreckt, als es verschiedene Glauben unter den Menschen gibt, wäre Intoleranz der gefährlichste Fehler.",
   "help_sent"    : "Hilfe ist unterwegs!",
   "will_attack"  : "Auf einen gemeinsamen Sieg!"
-
 
 }
