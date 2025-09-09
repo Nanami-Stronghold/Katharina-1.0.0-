@@ -47,7 +47,7 @@
     "PopulationPerPitchrig": 40,
     "MaxQuarries": 3,
     "MaxIronmines": 8,
-    "MaxWoodcutters": 8,
+    "MaxWoodcutters": 9,
     "MaxPitchrigs": 2,
     "MaxFarms": 16,
     "BuildInterval": 5,
