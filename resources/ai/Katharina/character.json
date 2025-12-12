@@ -7,16 +7,19 @@
   },
  "startTroops": {
     "normal": {
-      "ArabSwordsman": 4,
-      "ArabArcher": 6
+      "ArabSwordsman": 2,
+      "Knight": 4,
+      "HorseArcher": 6
     },
     "crusader": {
-      "ArabSwordsman": 4,
-      "ArabArcher": 6
+      "ArabSwordsman": 2,
+      "Knight": 4,
+      "HorseArcher": 6
     },
     "deathmatch": {
-      "ArabSwordsman": 4,
-      "ArabArcher": 6
+      "ArabSwordsman": 2,
+      "Knight": 4,
+      "HorseArcher": 6
     }
   },
   "aic": {
@@ -63,7 +66,7 @@
     "AIRequestDelay": 120,
     "MinimumGoodsRequiredAfterTrade": 20,
     "DoubleRationsFoodThreshold": 500,
-    "MaxWood": 90,
+    "MaxWood": 120,
     "MaxStone": 80,
     "MaxResourceOther": 12,
     "MaxEquipment": 12,
@@ -116,7 +119,7 @@
     "OuterPatrolGroupsCount": 3,
     "OuterPatrolGroupsMove": "True",
     "OuterPatrolRallyDelay": 2,
-    "DefWalls": 90,
+    "DefWalls": 95,
     "DefUnit1": "Crossbowman",
     "DefUnit2": "ArabArcher",
     "DefUnit3": "Crossbowman",
@@ -124,12 +127,12 @@
     "DefUnit5": "Crossbowman",
     "DefUnit6": "ArabArcher",
     "DefUnit7": "Crossbowman",
-    "DefUnit8": "ArabArcher",
+    "DefUnit8": "HorseArcher",
     "RaidUnitsBase": 6,
     "RaidUnitsRandom": 30,
     "RaidUnit1": "Monk",
     "RaidUnit2": "Knight",
-    "RaidUnit3": "Monk",
+    "RaidUnit3": "Knight",
     "RaidUnit4": "None",
     "RaidUnit5": "None",
     "RaidUnit6": "None",
